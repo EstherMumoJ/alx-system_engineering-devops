@@ -1,1 +1,1 @@
-shell redirections and permissions
+shell redirections and permisimmions
